@@ -7,4 +7,5 @@
 
 echo 'Hello world';
 echo 'FIX';
+echo 'test';
 ?>
