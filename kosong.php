@@ -6,4 +6,5 @@
  */
 
 echo 'Hello world';
+echo 'FIX';
 ?>
